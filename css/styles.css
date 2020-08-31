@@ -167,7 +167,7 @@ footer ul li .typcn {
     justify-content: space-between;
     align-items: center
   }
-  .about-me .flex-container > .flex-item {
+  .about-me .flex-container > .flex-item-img {
     padding-right: 30px;
   }
   .about-me .flex-container > .flex-item:last-of-type {
